@@ -33,7 +33,7 @@ Hi, I`m Xinyue Liang, a third-year master's student in the Department of Astrono
 ## Reasearch experiences:
 ### 1. How robust can we identify and quantify stellar bars using JWST observations? (*Paper in prep*)
 
-[Slides] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+[Slides](../assets/JWST_simulate_bar.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
 Advisors: [Prof. Fang Taotao](https://cpst.xmu.edu.cn/eng/info/1203/1212.htm), [Prof Luis C. Ho](http://kavli.pku.edu.cn/~lho/), and [Dr. Si-Yue Yu](https://siyue.github.io/home/); 
 
 
