@@ -49,8 +49,6 @@ In this study, we employ Principal Component Analysis (PCA) on the surface densi
 
 ### 3. The properties of barred galaxies in TNG50 
 
-### *Ongoing* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;    
-
-Advisors: [Dr. Si-Yue Yu](https://siyue.github.io/home/) and [Prof. Fang Taotao](https://cpst.xmu.edu.cn/eng/info/1203/1212.htm)
+*Ongoing* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;    Advisors: [Dr. Si-Yue Yu](https://siyue.github.io/home/) and [Prof. Fang Taotao](https://cpst.xmu.edu.cn/eng/info/1203/1212.htm)
 
 In this study, our primary goal is to quantify barred galaxies from mock images of TNG50 and subsequently compare these properties with real observations. We employ ellipse fitting, a common technique in observational studies, to identify and quantify bars. Currently, we have obtained measurements for the semi-major axis and ellipticity of the bars in both TNG50 and DESI, and our next step involves a quantitative comparison of these findings.
