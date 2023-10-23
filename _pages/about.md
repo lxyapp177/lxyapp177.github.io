@@ -41,7 +41,7 @@ In this study, our primary goal is to quantitatively analyze the impact of obser
 
 ### 2. A new bulge type indicator from the principal component analysis of surface density proﬁle 
 
-[Slides] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+[Slides](../assets/New_bulge_indicator.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
 Advisors: [Dr. Si-Yue Yu](https://siyue.github.io/home/), [Prof. Fang Taotao](https://cpst.xmu.edu.cn/eng/info/1203/1212.htm), and [Prof Luis C. Ho](http://kavli.pku.edu.cn/~lho/)
 
 In this study, we employ Principal Component Analysis (PCA) on the surface density profiles (SDPs) of galaxies obtained from the Spitzer Survey of Stellar Structure in Galaxies (S4G). Our analysis reveals that the PCA results are closely linked to the shape of the SDPs, enabling us to quantitatively estimate the contribution of the bulge component in galaxies. This leads us to introduce a novel bulge type indicator, which demonstrates strong agreement with the traditional bulge indicator, ∆<µe>. Notably, our approach offers the advantage of maintaining accuracy while significantly reducing computational complexity.
