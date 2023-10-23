@@ -47,7 +47,7 @@ Advisors: [Dr. Si-Yue Yu](https://siyue.github.io/home/), [Prof. Fang Taotao](ht
 In this study, we employ Principal Component Analysis (PCA) on the surface density profiles (SDPs) of galaxies obtained from the Spitzer Survey of Stellar Structure in Galaxies (S4G). Our analysis reveals that the PCA results are closely linked to the shape of the SDPs, enabling us to quantitatively estimate the contribution of the bulge component in galaxies. This leads us to introduce a novel bulge type indicator, which demonstrates strong agreement with the traditional bulge indicator, ∆<µe>. Notably, our approach offers the advantage of maintaining accuracy while significantly reducing computational complexity.
 
 
-### 3. The morphology of barred galaxies in TNG50 
+### 3. The properties of barred galaxies in TNG50 
 
 ### *Ongoing* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;    
 
