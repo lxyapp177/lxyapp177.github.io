@@ -1,4 +1,4 @@
----
+![image](https://github.com/lxyapp177/lxyapp177.github.io/assets/148206536/a22b5dfd-b9e5-4fe6-b59a-0c1e3b815030)![image](https://github.com/lxyapp177/lxyapp177.github.io/assets/148206536/b2b08728-2b84-4905-a7f3-f41900afb453)---
 permalink: /
 title: "Welcome!"
 excerpt: "About me"
@@ -27,10 +27,10 @@ Hi, I`m Xinyue Liang, a third-year master's student in the Department of Astrono
 
 -Galaxy-galaxy interaction
 
--Cosmic evoltuion of galaxy structures.
+-Cosmic evolution of galaxy structures.
 
 
-## Reasearch experiences:
+## Research experiences:
 ### 1. How robust can we identify and quantify stellar bars using JWST observations? (*Paper in prep*)
 
 [Slides](../assets/JWST_simulate_bar.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
