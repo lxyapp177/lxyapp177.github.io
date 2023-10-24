@@ -1,4 +1,4 @@
-![image](https://github.com/lxyapp177/lxyapp177.github.io/assets/148206536/a22b5dfd-b9e5-4fe6-b59a-0c1e3b815030)![image](https://github.com/lxyapp177/lxyapp177.github.io/assets/148206536/b2b08728-2b84-4905-a7f3-f41900afb453)---
+---
 permalink: /
 title: "Welcome!"
 excerpt: "About me"
