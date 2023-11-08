@@ -17,8 +17,9 @@ Hi, I`m Xinyue Liang, a third-year master's student in the Department of Astrono
 
 ## Education
 2017.9-2021.6: B.Sc. in Astronomy, Xiamen University, China 
+Thesis title: The Optical and X-ray Signatures of Supermassive Black Hole Binary
+Thesis advisor:  Advisors:[Prof. Zheng Zhen-Ya](http://www.shao.cas.cn/2020Ver/yjdw/zgj/index_81441.html?json=http://sourcedb.shao.cas.cn/zw/zjrck/201804/t20180403_4991274.json)  [Prof. Fang Taotao](https://cpst.xmu.edu.cn/eng/info/1203/1212.htm) 
 
-2021.9-Expected 2024: Graduate student in Astronomy, Xiamen University, China
 
 ## Research Interests:
 -Galaxy formation and evolution 
