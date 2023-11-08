@@ -17,8 +17,16 @@ Hi, I`m Xinyue Liang, a third-year master's student in the Department of Astrono
 
 ## Education
 2017.9-2021.6: B.Sc. in Astronomy, Xiamen University, China 
-Thesis title: The Optical and X-ray Signatures of Supermassive Black Hole Binary
-Thesis advisor:  Advisors:[Prof. Zheng Zhen-Ya](http://www.shao.cas.cn/2020Ver/yjdw/zgj/index_81441.html?json=http://sourcedb.shao.cas.cn/zw/zjrck/201804/t20180403_4991274.json)  [Prof. Fang Taotao](https://cpst.xmu.edu.cn/eng/info/1203/1212.htm) 
+
+
+*Thesis title: The Optical and X-ray Signatures of Supermassive Black Hole Binary*
+
+
+*Thesis advisor:  Advisors:[Prof. Zheng Zhen-Ya](http://www.shao.cas.cn/2020Ver/yjdw/zgj/index_81441.html?json=http://sourcedb.shao.cas.cn/zw/zjrck/201804/t20180403_4991274.json)  [Prof. Fang Taotao](https://cpst.xmu.edu.cn/eng/info/1203/1212.htm)*
+
+
+2021.9-Expected 2024: Graduate student in Astronomy, Xiamen University, China
+
 
 
 ## Research Interests:
@@ -32,7 +40,9 @@ Thesis advisor:  Advisors:[Prof. Zheng Zhen-Ya](http://www.shao.cas.cn/2020Ver/y
 
 
 ## Research experiences:
-### 1. How robustly can we identify and quantify stellar bars using JWST observations? (*Paper in prep*)
+### 1. The robustness in identifying and quantifying high-redshift bars using JWST observations
+
+(*Submitted to A&A*) [arXiv:2311.04019](https://arxiv.org/abs/2311.04019)
 
 [Slides](../assets/JWST_simulate_bar.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
 Advisors: [Dr. Si-Yue Yu](https://siyue.github.io/home/), [Prof. Fang Taotao](https://cpst.xmu.edu.cn/eng/info/1203/1212.htm), and [Prof Luis C. Ho](http://kavli.pku.edu.cn/~lho/)
