@@ -25,7 +25,7 @@ Hi, I`m Xinyue Liang, a third-year master's student in the Department of Astrono
 *Thesis advisor: [Prof. Zheng Zhen-Ya](http://www.shao.cas.cn/2020Ver/yjdw/zgj/index_81441.html?json=http://sourcedb.shao.cas.cn/zw/zjrck/201804/t20180403_4991274.json), [Prof. Fang Taotao](https://cpst.xmu.edu.cn/eng/info/1203/1212.htm)*
 
 
-2021.9-Expected 2024: Graduate student in Astronomy, Xiamen University, China
+2021.9-Expected 2024: Master`s student in Astronomy, Xiamen University, China
 
 
 
